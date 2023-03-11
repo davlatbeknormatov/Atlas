@@ -12,11 +12,17 @@ module.exports = {
       },
       colors: {
         brand: {
-          siyoxrang: "#0D1E47"
+          siyoxrang: "#0D1E47",
+          ochsariq: "#FDB022",
+          ochyashil: "#32D583",
+          kulrang: "#475467",
+          toqhovo: "#244086",
+          graytoq: "#1D2939",
         }
       },
       maxWidth: {
-        698: "698px"
+        698: "698px",
+        440: "440px",
       }
     },
   },
